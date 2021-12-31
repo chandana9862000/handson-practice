@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fourpins", "fourpins\fourpins.csproj", "{FB077482-43BF-469D-BF86-34EAC283EAB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB077482-43BF-469D-BF86-34EAC283EAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB077482-43BF-469D-BF86-34EAC283EAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB077482-43BF-469D-BF86-34EAC283EAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB077482-43BF-469D-BF86-34EAC283EAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0390E064-3F33-4CB9-B749-69BB4291324F}
+	EndGlobalSection
+EndGlobal
